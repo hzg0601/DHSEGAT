@@ -1,0 +1,16 @@
+*.ipynb_checkpoint
+*.zip
+*.log
+/dataset
+/logs
+/base
+/__pycache__
+/.idea
+*.json
+/result
+/.vscode
+/DHSEGATs_paper
+
+
+
+
